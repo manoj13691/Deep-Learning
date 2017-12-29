@@ -1,0 +1,7 @@
+This project is a Kaggle contest to classify comments from Wikipedia’s talk page edits.
+The details can be found in - https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge 
+
+The code requires the below data files:
+
+1. Glove Word Embeddings of 100 dimensions for 6 billion tokens. It can be found in - http://nlp.stanford.edu/data/glove.6B.zip
+2. The train, test, sample submission file can be found in - https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
