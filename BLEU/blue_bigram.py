@@ -56,7 +56,6 @@ def blue(mt, references):
 	for i in references_max_bigrams_count:
 		sum_count_clip += references_max_bigrams_count[i]
 
-
 	return round(float(sum_count_clip)/float(sum_count),2)
 	
 
